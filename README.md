@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**brotherson10/brotherson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brotherson Américo. :computer: I'm a FrontEnd programmer, developing in JavaScript and React.
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<p>
+<a href="https://www.linkedin.com/in/brotherson-am%C3%A9rico-a0712b347/">
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="logo'linkedin"/>
+</a>
+<a href="https://www.instagram.com/brotherson10">
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" alt="logo-instagram"/>
+</a>
+</p>
+<br>
+<br>
+<br>
+
+[![Brotherson's stats](https://github-readme-stats.vercel.app/api?username=brotherson10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brotherson10)](https://github.com/anuraghazra/github-readme-stats)
