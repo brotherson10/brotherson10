@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Brotherson Américo. :computer: I'm a FrontEnd programmer, developing in JavaScript and React.
+I'm Brotherson Américo. :computer: I'm a FrontEnd programmer, developing in JavaScript, React and Node.js, and passionate about evolution.
 
 <br>
 <br>
