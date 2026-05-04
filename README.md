@@ -1,24 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm Brotherson Américo. :computer: I'm a FrontEnd programmer, developing in JavaScript, React and Node.js, and passionate about evolution.
+I'm **Brotherson Américo**, a Frontend Developer focused on building modern web applications.
 
-<br>
-<br>
+💻 Currently working with:
 
-### Connect with me:
+* JavaScript
+* React
+* Node.js
+* HTML & CSS
 
-<p>
-<a href="https://www.linkedin.com/in/brotherson-am%C3%A9rico-a0712b347/">
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="logo'linkedin"/>
-</a>
-<a href="https://www.instagram.com/brotherson10">
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" alt="logo-instagram"/>
-</a>
-</p>
-<br>
-<br>
-<br>
+🚀 What I'm doing now:
 
-[![Brotherson's stats](https://github-readme-stats.vercel.app/api?username=brotherson10)](https://github.com/anuraghazra/github-readme-stats)
+* Improving my Full Stack skills
+* Building real-world projects with API integration
+* Learning backend and database concepts
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brotherson10)](https://github.com/anuraghazra/github-readme-stats)
+🔥 Recent Projects:
+
+* RunFlow Frontend (Landing Page + API Integration)
+* RunFlow Backend (Node.js + Express + SQLite API)
+
+📫 Connect with me:
+
+* LinkedIn: https://www.linkedin.com/in/brotherson/
+* GitHub: https://github.com/brotherson10
+
+---
+
+✨ Always learning. Always building.
