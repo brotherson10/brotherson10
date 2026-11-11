@@ -1,30 +1,42 @@
-# Hi there 👋
+# Hi, I'm Brotherson Américo 👋
 
-I'm **Brotherson Américo**, a Frontend Developer focused on building modern web applications.
+I'm a Full Stack Developer based in Portugal, building independent web applications and digital solutions for businesses.
 
-💻 Currently working with:
+With a background in Business Administration, I connect business needs with software development, turning operational challenges into practical applications.
 
-* JavaScript
-* React
-* Node.js
-* HTML & CSS
+## 💻 Tech Stack
 
-🚀 What I'm doing now:
+- **Frontend:** TypeScript, JavaScript, React, Next.js, HTML, CSS and Tailwind CSS
+- **Backend:** Node.js, Express and REST APIs
+- **Databases:** PostgreSQL, Supabase and Drizzle ORM
+- **Tools & Testing:** Git, Docker, Playwright and Vitest
+- **Automation:** n8n, API integrations and AI-assisted workflows
 
-* Improving my Full Stack skills
-* Building real-world projects with API integration
-* Learning backend and database concepts
+## 🚀 Featured Projects
 
-🔥 Recent Projects:
+### Tralyn — Inventory Management
+A full stack application built to address a real inventory management problem, with product tracking, stock movements, user permissions, dashboards and Excel imports.
 
-* RunFlow Frontend (Landing Page + API Integration)
-* RunFlow Backend (Node.js + Express + SQLite API)
+**Next.js · TypeScript · PostgreSQL · Supabase · Docker**
+Validated with 785 automated tests.
 
-📫 Connect with me:
+[Live Demo](https://tralyn.vercel.app)
 
-* LinkedIn: https://www.linkedin.com/in/brotherson/
-* GitHub: https://github.com/brotherson10
+### RunFlow — Running Management
+A full stack application for managing running workouts and goals, with authentication, workout history, filters and a demo mode.
 
----
+Built as a monorepo with a React frontend, an Express API and shared validation schemas.
 
-✨ Always learning. Always building.
+**React · TypeScript · Node.js · Express · PostgreSQL · Drizzle ORM**
+
+[Live Demo](https://runflow-eta.vercel.app) · [Source Code](https://github.com/brotherson10/runflow)
+
+## 🌱 Current Focus
+
+- Building reliable applications from frontend to database
+- Improving software quality through automated testing
+- Creating automations that simplify business workflows
+
+## 📫 Connect With Me
+
+[Portfolio](https://brotherson.dev) · [LinkedIn](https://www.linkedin.com/in/brotherson/)
